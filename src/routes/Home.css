@@ -1,0 +1,48 @@
+.Home-Top {
+  display: flex;
+  background-color: #fafafa;
+
+  height: 480px;
+}
+
+.top-two {
+  display: flex;
+}
+.Cards-Table {
+  width: 60%;
+
+  margin-top: 20px;
+}
+
+.Home-Map2 {
+  width: 50%;
+
+  margin-top: 20px;
+}
+
+/*
+.Home-Top {
+  display: flex;
+  border-style: solid;
+  border-color: blueviolet;
+  height: 480px;
+}
+
+.top-two {
+  display: flex;
+}
+.Cards-Table {
+  width: 60%;
+  border-style: solid;
+  border-color: blue;
+  margin-top: 20px;
+}
+
+.Home-Map2 {
+  width: 50%;
+  border-style: solid;
+  border-color: greenyellow;
+  margin-top: 20px;
+}
+
+*/
